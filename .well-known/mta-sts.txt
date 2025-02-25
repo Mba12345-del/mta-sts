@@ -1,1 +1,4 @@
-
+version: STSv1
+mode: enforce
+mx: morecambebayacademy-co-uk.mail.protection.outlook.com
+max_age: 1209600
